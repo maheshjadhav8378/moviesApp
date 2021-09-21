@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "movieName": "Cat-Women of the Moon (a.k.a. Rocket to the Moon)",
+    "genre": "Adventure|Sci-Fi",
+    "releaseDate": "2021-09-06T07:22:55Z",
+    "poster": "http://dummyimage.com/230x220.png/cc0000/ffffff",
+    "rating": 3.0,
+    "duration": 141
+  },
+  {
+    "id": 2,
+    "movieName": "3rd Voice, The",
+    "genre": "Crime|Drama|Thriller",
+    "releaseDate": "2021-08-23T07:01:29Z",
+    "poster": "http://dummyimage.com/220x218.png/dddddd/000000",
+    "rating": 3.4,
+    "duration": 148
+  },
+  {
+    "id": 3,
+    "movieName": "Dragon Ball Z: Battle of Gods",
+    "genre": "Action|Animation|Fantasy|IMAX",
+    "releaseDate": "2021-10-24T19:03:48Z",
+    "poster": "http://dummyimage.com/210x214.png/cc0000/ffffff",
+    "rating": 1.4,
+    "duration": 136
+  },
+  {
+    "id": 4,
+    "movieName": "Drunks",
+    "genre": "Drama",
+    "releaseDate": "2021-10-30T02:10:13Z",
+    "poster": "http://dummyimage.com/219x202.png/dddddd/000000",
+    "rating": 3.1,
+    "duration": 90
+  },
+  {
+    "id": 5,
+    "movieName": "Kung Phooey!",
+    "genre": "Comedy",
+    "releaseDate": "2021-09-02T12:43:29Z",
+    "poster": "http://dummyimage.com/201x211.png/ff4444/ffffff",
+    "rating": 3.0,
+    "duration": 113
+  },
+  {
+    "id": 6,
+    "movieName": "Big Broadcast of 1938, The",
+    "genre": "Comedy|Musical|Romance",
+    "releaseDate": "2021-09-22T05:06:14Z",
+    "poster": "http://dummyimage.com/218x221.png/cc0000/ffffff",
+    "rating": 3.4,
+    "duration": 144
+  },
+  {
+    "id": 7,
+    "movieName": "Gone to Earth",
+    "genre": "Drama|Romance",
+    "releaseDate": "2021-09-13T18:49:59Z",
+    "poster": "http://dummyimage.com/245x236.png/cc0000/ffffff",
+    "rating": 4.5,
+    "duration": 117
+  },
+  {
+    "id": 8,
+    "movieName": "Killing Auntie (Zabicie ciotki)",
+    "genre": "Drama|Thriller",
+    "releaseDate": "2021-10-26T03:07:01Z",
+    "poster": "http://dummyimage.com/211x239.png/ff4444/ffffff",
+    "rating": 4.9,
+    "duration": 116
+  },
+  {
+    "id": 9,
+    "movieName": "Altiplano",
+    "genre": "Drama",
+    "releaseDate": "2021-10-09T00:18:24Z",
+    "poster": "http://dummyimage.com/245x229.png/dddddd/000000",
+    "rating": 2.6,
+    "duration": 119
+  },
+  {
+    "id": 10,
+    "movieName": "Bloodlust: Subspecies III",
+    "genre": "Horror",
+    "releaseDate": "2021-09-20T18:11:08Z",
+    "poster": "http://dummyimage.com/240x213.png/cc0000/ffffff",
+    "rating": 4.8,
+    "duration": 90
+  },
+  {
+    "id": 11,
+    "movieName": "Broken Vessels",
+    "genre": "Drama",
+    "releaseDate": "2021-10-18T04:07:51Z",
+    "poster": "http://dummyimage.com/207x212.png/dddddd/000000",
+    "rating": 2.3,
+    "duration": 120
+  },
+  {
+    "id": 12,
+    "movieName": "Relax... It's Just Sex",
+    "genre": "Comedy",
+    "releaseDate": "2021-08-23T13:33:31Z",
+    "poster": "http://dummyimage.com/237x248.png/5fa2dd/ffffff",
+    "rating": 2.4,
+    "duration": 149
+  },
+  {
+    "id": 13,
+    "movieName": "Good Vibrations",
+    "genre": "Drama|Musical",
+    "releaseDate": "2021-10-04T19:11:22Z",
+    "poster": "http://dummyimage.com/224x224.png/5fa2dd/ffffff",
+    "rating": 1.5,
+    "duration": 123
+  },
+  {
+    "id": 14,
+    "movieName": "Dark Alibi",
+    "genre": "Crime|Drama|Mystery|Thriller",
+    "releaseDate": "2021-08-29T04:38:26Z",
+    "poster": "http://dummyimage.com/229x209.png/5fa2dd/ffffff",
+    "rating": 2.5,
+    "duration": 126
+  },
+  {
+    "id": 15,
+    "movieName": "Adventures in Babysitting",
+    "genre": "Adventure|Comedy",
+    "releaseDate": "2021-10-03T19:50:11Z",
+    "poster": "http://dummyimage.com/213x210.png/5fa2dd/ffffff",
+    "rating": 2.4,
+    "duration": 112
+  },
+  {
+    "id": 16,
+    "movieName": "Greyfriars Bobby (a.k.a. Greyfriars Bobby: The True Story of a Dog)",
+    "genre": "Children|Drama",
+    "releaseDate": "2021-08-14T18:01:12Z",
+    "poster": "http://dummyimage.com/230x235.png/cc0000/ffffff",
+    "rating": 3.5,
+    "duration": 101
+  },
+  {
+    "id": 17,
+    "movieName": "Full Frontal",
+    "genre": "Comedy|Drama|Romance",
+    "releaseDate": "2021-09-24T22:03:23Z",
+    "poster": "http://dummyimage.com/224x238.png/ff4444/ffffff",
+    "rating": 3.1,
+    "duration": 133
+  },
+  {
+    "id": 18,
+    "movieName": "Shoes of the Fisherman, The",
+    "genre": "Drama",
+    "releaseDate": "2021-09-25T11:00:54Z",
+    "poster": "http://dummyimage.com/247x206.png/cc0000/ffffff",
+    "rating": 1.5,
+    "duration": 128
+  },
+  {
+    "id": 19,
+    "movieName": "Haywire",
+    "genre": "Action|Thriller",
+    "releaseDate": "2021-09-28T00:49:46Z",
+    "poster": "http://dummyimage.com/250x225.png/5fa2dd/ffffff",
+    "rating": 1.8,
+    "duration": 115
+  },
+  {
+    "id": 20,
+    "movieName": "For Ever Mozart",
+    "genre": "Drama",
+    "releaseDate": "2021-08-25T00:17:19Z",
+    "poster": "http://dummyimage.com/227x225.png/5fa2dd/ffffff",
+    "rating": 4.5,
+    "duration": 129
+  }
+]
